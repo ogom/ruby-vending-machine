@@ -1,4 +1,7 @@
 .bundle/
 vendor/
 tmp/
-doc/
+doc/*
+doc/images/*.jpg
+!doc/images/
+!doc/rdra/
